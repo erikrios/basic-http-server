@@ -1,0 +1,19 @@
+{
+  "name": "basichttpserver",
+  "version": "1.0.0",
+  "description": "Basic HTTP Server with Node.js",
+  "main": "server-http.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erikrios/basic-http-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erikrios/basic-http-server/issues"
+  },
+  "homepage": "https://github.com/erikrios/basic-http-server#readme"
+}
